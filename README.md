@@ -9,7 +9,11 @@ https://github.com/LSatan/RCSwitch-CC1101-Driver-Lib
 Use the Arduino IDE and include the RCSwitch-CC1101-Driver-Lib.
 
 Serial Monitor:
-Send command: T<PAYLOAD>$
+Send command: T <PAYLOAD> $
+  
 Receive: R$
+
 Demo: D$
 
+
+https://www.liebrand.io/automating-sunblinds-the-challenge-some-prep/
